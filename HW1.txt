@@ -1,0 +1,5 @@
+This assignment was confusing me a bit at the start, but once I got the hang of it it 
+all worked out. I especially liked Cucumber, very handy and easy to use. I'm looking forward
+to the next assigment, but first I'll read in the book for a bit. I think I got a bit better at
+designing my code, so I'm proud of myself for that. I'm working on a project with a (IRL) friend of
+mine, it's going to be a simple website, but it'll be good for practice.
