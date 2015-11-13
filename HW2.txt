@@ -1,0 +1,7 @@
+Comments about assignment HW2
+
+I thought this assigment was quite doable. I spent a bit less time on it than I had expected, 
+which is a good thing, I guess. I did struggle a bit with one of the requirements:
+I couldn't get the ratings filter to keep working if a sorting category was also selected,
+but as soon as I figured out I could chain the Movies. selectors, it worked (thanks Ruby for 
+'everything is a method call'.
