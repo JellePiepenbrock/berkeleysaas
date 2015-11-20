@@ -1,0 +1,5 @@
+I'm going to be honest here: I thought this was hard to get working correctly! It looked so easy, when I scanned the assigments, to get an estimate of how much time I would need to spend. 
+I was wrong, this took me much longer than I anticipated: I asked a friend of mine to look it over, because certain errors were driving me up the wall (where did that space/comma/apostrophe come from
+and why does it break everything?).
+
+In the end, it all worked out though. Didn't get the perfect score this time, maybe I'll have some more time to iron out the last few errors this weekend.
