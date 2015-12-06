@@ -1,0 +1,3 @@
+I had a lot of problems with the autograder for this homework, and in the end I didn't have enough time to complete the homework fully. I already had enough completion to pass the course, but still, that was a slight
+disappointment. In previous assigments, I sort of used the autograder as a crutch (is that the word?), checking to see if I made the correct improvements over iterations. Now I couldn't do that and I felt the consequences. 
+Still, the course was a pleasant experience overall, and I am thinking about doing part 2 too. 
