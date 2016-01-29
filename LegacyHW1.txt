@@ -1,0 +1,4 @@
+This assignment was fun! (As soon as I knew how to fix the bug..) This really made me realize what the benefit of such an organised structure as Rails is. As soon as you see the error message, 
+you can think: 'Oh, this is probably due to a problem in this controller action here..' and then you still have to figure out how to fix the bug, but half the work is already behind you. 
+
+This also made me realize that writing tests is hard. I'll get there eventually.
