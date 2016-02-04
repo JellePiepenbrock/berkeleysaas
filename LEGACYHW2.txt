@@ -1,0 +1,5 @@
+So, yeah, got it working again! Autograder first gave me some internal server errors, but after trying later, I think it was just a connection hiccup. Getting the hang of rspec and cucumber now,
+so I guess the goal of this assignment was reached. Just saw that the midterm got changed to Feb 12, so a little more time to prepare, no complaints there. 
+
+I did get curious about which things are usually put into controllers and models and views (how to separate them). I mean, I do get the basic idea, but beyond that, it seems that opinions also
+come into play. I will read about that some more. 
