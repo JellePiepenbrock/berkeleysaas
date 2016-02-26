@@ -1,0 +1,1 @@
+This homework seemed less complex than previous ones, which could either mean that I am getter better at Rails, or that it was really easier. The lectures about possible app vulnerabilities were interesting (and slightly disturbing), I am going to look into that.
